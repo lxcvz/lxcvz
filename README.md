@@ -1,4 +1,5 @@
 <h1 align="center">Hi! 👋 I'm Lucas Mateus</h1>
+<img src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif" alt="" width = 500vw align=right>
 <h3 align="center">Systems development student, focused on web applications</h3>
   
   
