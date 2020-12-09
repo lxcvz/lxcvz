@@ -4,16 +4,21 @@
 <h3 align="left">About me</h3>
   
   
-<h4> 📚 I’m currently learning JavaScript stack </h4>
+<h4> 📚 I’m currently learning JavaScript</h4>
 <h4> 🎓 Next technologists that I will learn </h4>
-  -  NodeJS | React | React Native 
+  <ul>
+  <li>NodeJS</li>
+  <li>React</li> 
+  <li>React Native</li> 
+  </ul>
 
 <h4>🏆 Skills</h4> 
-  - Good Communication 
-  - Resilience 
-  - Team Work
-  
+  <ul>
+  <li> Good Communication </li>
+  <li>Resilience</li> 
+  <li>Team Work</li>
+  </ul>
 <h4> 🖥 Contact</h4>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-mateus-770219198/)](https://www.linkedin.com/in/lucas-mateus-770219198/) [![Outlook Badge](https://img.shields.io/badge/-E-mail-6633cc?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:lucas-mateus.dc@hotmail.com)](mailto:lucas-mateus.dc@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-mateus-770219198/)](https://www.linkedin.com/in/lucas-mateus-770219198/) [![Outlook Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:lucas-mateus.dc@hotmail.com)](mailto:lucas-mateus.dc@hotmail.com)
