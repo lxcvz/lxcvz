@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 I'm Lucas Mateus</h1>
 <h3 align="center">Systems development student, focused on web applications</h3>
-<img src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif" alt="" width = 600vw align=right>
+<img src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif" alt="" width = 585vw align=right>
 <h3 align="left">About me</h3>
   
   
