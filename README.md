@@ -4,14 +4,13 @@
 <h3 align="left">About me</h3>
   
   
-<h4> 📚 I’m currently learning</h4>
+## 📚 I’m currently learning
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-<h4> 🎓 Next technologists that I will learn </h4>
+## 🎓 Next technologists that I will learn 
   - [Node.js](https://nodejs.org/en/)
   - [React](https://reactjs.org) 
   - [React Native](https://facebook.github.io/react-native/)
   - [TypeScript](https://www.typescriptlang.org/)
-<h4> 🖥 Contact</h4>
-
-
+  
+## 🖥 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-mateus-770219198/)](https://www.linkedin.com/in/lucas-mateus-770219198/) [![Outlook Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:lucas-mateus.dc@hotmail.com)](mailto:lucas-mateus.dc@hotmail.com)
