@@ -7,9 +7,9 @@
   
 ### 📚 I’m currently learning
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  - [React](https://reactjs.org) 
 ### 🎓 Next technologists that I will learn 
   - [Node.js](https://nodejs.org/en/)
-  - [React](https://reactjs.org) 
   - [React Native](https://facebook.github.io/react-native/)
   - [TypeScript](https://www.typescriptlang.org/)
   
