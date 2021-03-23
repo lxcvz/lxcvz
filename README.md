@@ -7,11 +7,11 @@
   
 ### 📚 I’m currently learning
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  - [Typescript](https://www.typescriptlang.org/)
   - [React](https://reactjs.org) 
 ### 🎓 Next technologists that I will learn 
   - [Node.js](https://nodejs.org/en/)
   - [React Native](https://facebook.github.io/react-native/)
-  - [TypeScript](https://www.typescriptlang.org/)
   
 ### 🖥 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-mateus-770219198/)](https://www.linkedin.com/in/lucas-mateus-770219198/) [![Outlook Badge](https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=microsoft%20outlook&logoColor=white&link=mailto:lucas-mateus.dc@hotmail.com)](mailto:lucas-mateus.dc@hotmail.com)
