@@ -9,6 +9,7 @@
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   - [Typescript](https://www.typescriptlang.org/)
   - [React](https://reactjs.org) 
+  - [Styled components](https://styled-components.com/)
 ### 🎓 Next technologists that I will learn 
   - [Node.js](https://nodejs.org/en/)
   - [React Native](https://facebook.github.io/react-native/)
