@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋 I'm Lucas Mateus</h1>
-<h3 align="center">Systems development student, focused on web applications</h3>
+<h3 align="center">Web developer passionate about programming, innovation, and technology.</h3>
 <img src="https://user-images.githubusercontent.com/69019354/121270862-de97b300-c898-11eb-8370-df461abd9c4b.png" alt="" width = 410 align=right>
 
 ### About me
