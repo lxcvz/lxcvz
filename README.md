@@ -10,7 +10,7 @@
   - [React](https://reactjs.org) 
   - [Next.js](https://nextjs.org/)
   - [Node.js](https://nodejs.org/en/)
-### 🎓 Next technologists that I will learn 
+### 🎓 Next technologies that I will learn 
   - [React Native](https://facebook.github.io/react-native/)
   - [Typescript](https://www.typescriptlang.org/)
  
