@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 I'm Lucas Mateus</h1>
 <h3 align="center">Full stack developer passionate about programming, innovation, and technology.</h3>
-<img src="https://user-images.githubusercontent.com/69019354/121270862-de97b300-c898-11eb-8370-df461abd9c4b.png" alt="" width = 410 align=right>
+<img src="https://i.gifer.com/3odR.gif" alt="" width = 410 align=right>
 
 ### About me
   
