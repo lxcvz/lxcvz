@@ -1,8 +1,6 @@
 <h1 align="center">Hi! 👋 I'm Lucas Mateus</h1>
 <h3 align="center">Full stack developer passionate about programming, innovation, and technology.</h3>
-<img src="https://i.gifer.com/3odR.gif" alt="" width=410px align=right />
-<img src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" /> 
-![image](https://user-images.githubusercontent.com/69019354/157337074-506faaef-94f6-4f8a-b1e0-3e8f36b6558d.png)
+
 
 ### About me
   
