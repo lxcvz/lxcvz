@@ -2,7 +2,7 @@
 <h3 align="center">
  Passionate about programming, innovation, and technology. <br/>
  I started programming in 2020, since then I follow improving through courses and private projects. <br/>
- I'm currently working as a squad lead and fullstack developer, with react and nodeJS
+ I'm currently working as a front-end developer
 </h3>
 
 
