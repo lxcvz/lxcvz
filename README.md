@@ -1,14 +1,16 @@
 <h1 align="center">Hi! 👋 My name is Lucas Mateus</h1>
-<h3 align="center">
+<h3 align="left">
  Passionate about programming, innovation, and technology. <br/>
  I started programming in 2020, since then I follow improving through courses and private projects. <br/>
  I'm currently working as a front-end developer
 </h3>
 
+<br/>
 
-
-<p align="center"><img align="center" alt="coding" width="520px" src="https://user-images.githubusercontent.com/69019354/157346296-0d0d18a2-330f-4b75-a081-56d40fd505cf.gif">
-<!--- <p align="center"><img align="center" alt="coding" src="https://user-images.githubusercontent.com/69019354/157337268-a37e4262-3119-48f4-9de7-bcc4149cb7b3.gif"></p>--->
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lxcvz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxcvz&layout=compact&langs_count=7&theme=dracula"/> -->
+</div>
   
 ### Techs and tools
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
