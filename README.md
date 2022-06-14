@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 My name is Lucas Mateus</h1>
+<h1 align="center">Hi! 👋</h1>
 <h3 align="left">
  Passionate about programming, innovation, and technology. <br/>
  I started programming in 2020, since then I follow improving through courses and private projects. <br/>
