@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋</h1>
-<h3 align="left">
+<h3 align="center">
  Passionate about programming, innovation, and technology. <br/>
  I started programming in 2020, since then I follow improving through courses and private projects. <br/>
  I'm currently working as a front-end developer
@@ -7,7 +7,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lxcvz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxcvz&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
