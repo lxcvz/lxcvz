@@ -1,9 +1,12 @@
-<h1 align="center">Hi! 👋</h1>
-<h3 align="center">
+<h1 align="left">Hi! 👋</h1>
+
+### About me
+
+<p align="left">
  Passionate about programming, innovation, and technology. <br/>
- I started programming in 2020, since then I follow improving through courses and private projects. <br/>
+ I started programming in 2020, since then I follow improving through courses, private projects and work. <br/>
  I'm currently working as a front-end developer
-</h3>
+</p>
 
 <br/>
 
