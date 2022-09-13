@@ -8,13 +8,12 @@
  I'm currently working as a front-end developer
 </p>
 
-<br/>
-
+<!--
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lxcvz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxcvz&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
-  
+
 ### Techs and tools
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
