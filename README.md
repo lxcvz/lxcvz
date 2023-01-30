@@ -4,8 +4,7 @@
 
 <p align="left">
  Passionate about programming, innovation, and technology. <br/>
- I started programming in 2020, since then I follow improving through courses, private projects and work. <br/>
- I'm currently working as a front-end developer
+ I started programming in 2020, since then I follow improving through articles, private projects and work progress. <br/>
 </p>
 
 <!--
