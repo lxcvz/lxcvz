@@ -3,7 +3,7 @@
 ### About me
 
 <p align="left">
- Just creating stuff since 2020 🤖
+ Just creating stuff 🤖
 </p>
 
 <!--
