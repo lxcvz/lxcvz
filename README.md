@@ -2,9 +2,11 @@
 
 <!-- ### About me -->
 
-<p align="left">
- Just creating stuff 🤖
-</p>
+
+ Just creating stuff! 
+<img align="center" alt="Reactjs" width="22px"  src="https://reactnative.dev/img/header_logo.svg"/>
+
+
 
 <!--
 <div align="left">
@@ -13,10 +15,10 @@
 </div>
 
 <!-- ### Techs and tools -->
-<img align="left" alt="Reactjs" width="22px"  src="https://reactnative.dev/img/header_logo.svg"/>
+<!-- <img align="left" alt="Reactjs" width="22px"  src="https://reactnative.dev/img/header_logo.svg"/>
 <img align="left" alt="Nextjs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> -->
 
 
 <!-- <br/>
