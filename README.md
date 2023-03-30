@@ -1,6 +1,6 @@
-<h1 align="left">Hi! 👋</h1>
+<!-- <h1 align="left">Hi! 👋</h1> -->
 
-### About me
+<!-- ### About me -->
 
 <p align="left">
  Just creating stuff 🤖
@@ -12,7 +12,7 @@
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxcvz&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 
-### Techs and tools
+<!-- ### Techs and tools -->
 <img align="left" alt="Reactjs" width="26px"  src="https://reactnative.dev/img/header_logo.svg"/>
 <img align="left" alt="Nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
